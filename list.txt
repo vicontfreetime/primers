@@ -1,0 +1,11 @@
+R = A или G 
+W = A или T 
+S =G или C  
+K = G или T 
+M = A или C 
+Y = T или C 
+B = C или G или T 
+D = A или G или T 
+H = A или C или T 
+V=A или C или G 
+N = A или C или G или T
